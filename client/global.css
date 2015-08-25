@@ -94,6 +94,11 @@ body {
   width: 100%;
 }
 
+.channel_name {
+  text-decoration: none;
+  color: inherit;
+}
+
 /* line 31, ../tests/sass/_layout.scss */
 .main {
   height: 100%;
